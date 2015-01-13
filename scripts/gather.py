@@ -1,4 +1,4 @@
-import bs4
+import beautifulsoup4 as bs4
 import urllib2
 import sqlite3
 import json
